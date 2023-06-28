@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Kranky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miniver&display=swap');
+
+.carousel-control {
+    padding: 10px;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+img {
+    margin: auto;
+    padding: auto;
+    align-self: center !important;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background: fullscreen !important;
+}
+
+em.bg {
+    border-radius: 50%;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+.title {
+    font-family: "Kranky";
+    font-size: 100px !important;
+}
+
+.txt {
+    font-family: "Miniver";
+    font-size: 30px !important;
+}
+
+.bear {
+    background-image: linear-gradient(60deg, rgb(77, 184, 255), rgb(0, 97, 171));
+}
+
+.black {
+    background-image: radial-gradient( rgb(255, 196, 0), rgb(141, 63, 0));
+}
+
+.choco {
+    background-image: linear-gradient(80deg, rgb(227, 182, 123), rgb(129, 88, 51));
+}
+
+.frankie {
+    background-image: radial-gradient(rgb(177, 255, 247), rgb(2, 122, 110));
+}
+
+.king {
+    background-image: linear-gradient(30deg, rgb(106, 45, 13), rgb(127, 76, 39));
+}
+
+.kroc {
+    background-image: linear-gradient(100deg, rgb(156, 215, 255), rgb(14, 95, 156));
+}
+
+.leila {
+    background-image: radial-gradient(rgb(255, 224, 146), rgb(161, 4, 4));
+}
+
+.max {
+    background-image: radial-gradient( rgb(255, 230, 0), rgb(255, 128, 0));
+}
+
+.zass {
+    background-image: radial-gradient(rgb(255, 222, 177), rgb(165, 94, 6));
+}
+
+h5, p {
+    color: black;
+}
+
+.btn-slider {
+    color: black !important;
+}
